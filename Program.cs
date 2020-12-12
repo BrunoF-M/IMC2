@@ -12,7 +12,7 @@ namespace res2
             double alt;
 
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.WriteLine("+=+=- Calculadora De res -=+=+");
+            Console.WriteLine("+=+=- Calculadora De IMC -=+=+");
             Console.ResetColor();
 
             Console.Write("\nDigite seu peso em kg...: ");
